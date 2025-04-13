@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "73YBMYQDAV.com.solar.camerago", // GL9CUKCLZ8.com.example.myapp
+        "paths": [
+          "*" // you can use wildcard to accept any route like ["*"]
+           }
+       ]
+   }
+}
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+     "73YBMYQDAV.com.solar.camerago"
+    ]
+  }
+}
