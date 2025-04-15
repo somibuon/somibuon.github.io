@@ -3,16 +3,21 @@
     "apps": [],
     "details": [
       {
-        "appID": "73YBMYQDAV.com.solar.camerago",
+        "appID": "N38587FWG3.com.solar.camerago",
         "paths": [
           "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
       }
     ]
   },
   "webcredentials": {
     "apps": [
-     "73YBMYQDAV.com.solar.camerago"
+      "N38587FWG3.com.solar.camerago"
     ]
   }
 }

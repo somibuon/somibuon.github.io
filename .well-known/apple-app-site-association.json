@@ -6,13 +6,18 @@
         "appID": "73YBMYQDAV.com.solar.camerago",
         "paths": [
           "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
       }
     ]
   },
   "webcredentials": {
     "apps": [
-     "73YBMYQDAV.com.solar.camerago"
+      "73YBMYQDAV.com.solar.camerago"
     ]
   }
 }
